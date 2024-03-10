@@ -47,7 +47,7 @@ export default defineConfig({
       vueTemplate: true,
     }),
   ],
-  base: "/",
+  base: '/songs_market/',
   define: { 'process.env': {} },
   resolve: {
     alias: {
