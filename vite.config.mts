@@ -47,7 +47,7 @@ export default defineConfig({
       vueTemplate: true,
     }),
   ],
-  base: "Songs",
+  base: "/",
   define: { 'process.env': {} },
   resolve: {
     alias: {
